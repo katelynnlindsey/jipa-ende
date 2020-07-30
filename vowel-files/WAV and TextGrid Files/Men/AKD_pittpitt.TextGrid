@@ -1,0 +1,74 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 14.07 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "segments" 
+        xmin = 0 
+        xmax = 14.07 
+        intervals: size = 15 
+        intervals [1]:
+            xmin = 0 
+            xmax = 8.635773417862795 
+            text = "" 
+        intervals [2]:
+            xmin = 8.635773417862795 
+            xmax = 8.728756316792579 
+            text = "i" 
+        intervals [3]:
+            xmin = 8.728756316792579 
+            xmax = 9.535601106736118 
+            text = "" 
+        intervals [4]:
+            xmin = 9.535601106736118 
+            xmax = 9.598740687972258 
+            text = "i" 
+        intervals [5]:
+            xmin = 9.598740687972258 
+            xmax = 9.957847056252803 
+            text = "" 
+        intervals [6]:
+            xmin = 9.957847056252803 
+            xmax = 10.088072442552342 
+            text = "i" 
+        intervals [7]:
+            xmin = 10.088072442552342 
+            xmax = 10.781959557817181 
+            text = "" 
+        intervals [8]:
+            xmin = 10.781959557817181 
+            xmax = 10.850031918837395 
+            text = "i" 
+        intervals [9]:
+            xmin = 10.850031918837395 
+            xmax = 11.150931485665872 
+            text = "" 
+        intervals [10]:
+            xmin = 11.150931485665872 
+            xmax = 11.261425752829117 
+            text = "i" 
+        intervals [11]:
+            xmin = 11.261425752829117 
+            xmax = 11.760891547200638 
+            text = "" 
+        intervals [12]:
+            xmin = 11.760891547200638 
+            xmax = 11.813179012911815 
+            text = "i" 
+        intervals [13]:
+            xmin = 11.813179012911815 
+            xmax = 12.04995244254734 
+            text = "" 
+        intervals [14]:
+            xmin = 12.04995244254734 
+            xmax = 12.131836586962958 
+            text = "" 
+        intervals [15]:
+            xmin = 12.131836586962958 
+            xmax = 14.07 
+            text = "" 
